@@ -6,7 +6,7 @@ The course is expected to be broke up into 3 sessions.
 
 Please download  and print the [merit badge worksheet](http://usscouts.org/mb/worksheets/Emergency-Preparedness.pdf) prior to class.
 
-Scouts, please obtain permission from a parent before visiting any online resources.
+**Scouts, please obtain permission from a parent before visiting any online resources.**
 
 ## Presentation
 
@@ -25,6 +25,7 @@ Before session 2:
 Complete the following research and learning, be prepared to discuss in session 2.
  - Complete 2.b for 5 additional emergency situations- .
  - 2.c Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Be prepared for session 2 to report on your family meeting, discuss their responses, and share your family plan.
+- If you want to start on requirements 8.b and 9.a you can do so. See the Helpful Resources section below for links to the FEMA Emergency Kit Checklist and the USScout.org safety checklist.
 
 
 ## Helpful Resources
