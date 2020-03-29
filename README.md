@@ -35,3 +35,6 @@ Complete the following research and learning, be prepared to discuss in session 
 
 [Introduction to the National Incident Management System on YouTube](https://www.youtube.com/watch?v=d39esZe-NXg)
 
+[FEMA introduction to Incident Command System (ICS) training](https://emilms.fema.gov/IS0100c/curriculum/1.html)
+
+
