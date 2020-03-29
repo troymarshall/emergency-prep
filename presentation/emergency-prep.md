@@ -160,7 +160,9 @@ inlineSVG: true
 
 ## Session 1 Discussion
 
-2.b. Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. You must use the first five situations listed below in boldface, plus any other five of your choice. Discuss your findings with your counselor.
+2. Do the following:
+
+    b. Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. You must use the first five situations listed below in boldface, plus any other five of your choice. Discuss your findings with your counselor.
         1. Home kitchen fire
         2. Home basement/storage room/garage fire
         3. Explosion in the home
@@ -168,10 +170,6 @@ inlineSVG: true
         5. Food-borne disease (food poisoning)
 
 ---
-
-## Session 1 Discussion
-
-
 
 ## Session 1 Homework
 
@@ -184,3 +182,31 @@ Complete requirement 2.b for the five situations that follow. Be prepared to dis
     14. Major flooding or a flash flood
 
 2.c Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Be prepared for session 2 to report on your family meeting, discuss their responses, and share your family plan.
+
+## Session 2 Discussion
+
+Review homework- Complete requirement 2.b for the five situations that follow. 
+
+    10. Mountain/backcountry accident
+    11. Boating accident
+    12. Gas leak in a home or building
+    13. Tornado or hurricane
+    14. Major flooding or a flash flood
+
+## Session 2 Discussion
+
+Review homework- 2.c Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Be prepared for session 2 to report on your family meeting, discuss their responses, and share your family plan.
+
+--
+
+## Session 2 Discussion
+
+6. a. Describe the National Incident Management System (NIMS) and the Incident Command System (ICS)
+
+---
+
+## Session 2 Discussion
+
+ 6. b. Identify the local government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS. Explain to your counselor:
+        1. How the NIMS/ICS can assist a Boy Scout troop when responding in a disaster
+        2. How a group of Scouts could volunteer to help in the event of these types of emergencies
