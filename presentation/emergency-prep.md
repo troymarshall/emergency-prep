@@ -2,7 +2,7 @@
 marp: true
 title: Emergency Preparedness Merit Badge- Troop 2020
 author: Troy Marshall
-marp: true 
+marp: false
 ---
 <!-- 
 theme: default 
@@ -38,6 +38,18 @@ inlineSVG: true
 
 ---
 
+## Why is emergency preparedness important?
+
+Being prepared for an emergency allows you to proactively address *likely* risks.
+
+### Risk
+
+*noun*
+
+a situation involving exposure to danger.
+
+---
+
 ## Emergency Preparedness Merit Badge Requirements
 
 1. Earn the First Aid Merit Badge.
@@ -47,12 +59,13 @@ inlineSVG: true
 ## Emergency Preparedness Merit Badge Requirements cont.
 
 2. Do the following:
-    a. Discuss with your counselor the aspects of emergency preparedness:
+    a. Discuss with your counselor the aspects of emergency preparedness: 
         1. Prevention
         2. Protection
         3. Mitigation
         4. Response
         5. Recovery
+
     Include in your discussion the kinds of questions that are important to ask yourself as you consider each of these.
 
 ---
@@ -61,6 +74,7 @@ inlineSVG: true
 
 2. continued
     b. Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. You must use the first five situations listed below in boldface, plus any other five of your choice. Discuss your findings with your counselor.
+      
         1. Home kitchen fire
         2. Home basement/storage room/garage fire
         3. Explosion in the home
@@ -90,6 +104,7 @@ inlineSVG: true
 ## Emergency Preparedness Merit Badge Requirements cont.
 
 3. Show how you could safely save a person from the following:
+    
     a. Touching a live household electric wire
     b. A structure filled with carbon monoxide
     c. Clothes on fire
@@ -128,6 +143,7 @@ inlineSVG: true
 
 8. Do the following:
     a. Tell the things a group of Scouts should be prepared to do, the training they need , and the safety precautions they should take for the following emergency services:
+
         1. Crowd and traffic control
         2. Messenger service and communication.
         3. Collection and distribution services.
@@ -149,6 +165,7 @@ inlineSVG: true
 
 2. Do the following:
     a. Discuss with your counselor the aspects of emergency preparedness:
+
         1. Prevention
         2. Protection
         3. Mitigation
@@ -163,6 +180,7 @@ inlineSVG: true
 2. Do the following:
 
     b. Using a chart, graph, spreadsheet, or another method approved by your counselor, demonstrate your understanding of each aspect of emergency preparedness listed in requirement 2a (prevention, protection, mitigation, response, and recovery) for 10 emergency situations from the list below. You must use the first five situations listed below in boldface, plus any other five of your choice. Discuss your findings with your counselor.
+
         1. Home kitchen fire
         2. Home basement/storage room/garage fire
         3. Explosion in the home
@@ -183,6 +201,8 @@ Complete requirement 2.b for the five situations that follow. Be prepared to dis
 
 2.c Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Be prepared for session 2 to report on your family meeting, discuss their responses, and share your family plan.
 
+---
+
 ## Session 2 Discussion
 
 Review homework- Complete requirement 2.b for the five situations that follow. 
@@ -192,6 +212,8 @@ Review homework- Complete requirement 2.b for the five situations that follow.
     12. Gas leak in a home or building
     13. Tornado or hurricane
     14. Major flooding or a flash flood
+
+---
 
 ## Session 2 Discussion
 
@@ -208,5 +230,6 @@ Review homework- 2.c Meet with and teach your family how to get or build a kit, 
 ## Session 2 Discussion
 
  6. b. Identify the local government or community agencies that normally handle and prepare for emergency services similar to those of the NIMS or ICS. Explain to your counselor:
+ 
         1. How the NIMS/ICS can assist a Boy Scout troop when responding in a disaster
         2. How a group of Scouts could volunteer to help in the event of these types of emergencies
