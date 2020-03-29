@@ -85,6 +85,13 @@ a situation involving exposure to danger.
         8. Vehicle trapped in a blizzard
         9. Earthquake or tsunami
         10. Mountain/backcountry accident
+
+---
+
+## Emergency Preparedness Merit Badge Requirements cont.
+
+2.b continued
+
         11. Boating accident
         12. Gas leak in a home or building
         13. Tornado or hurricane
