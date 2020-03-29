@@ -33,3 +33,5 @@ Complete the following research and learning, be prepared to discuss in session 
 
 [USScout.org home safety checklist](http://usscouts.org/usscouts/mb/docs/Home-Safety-Checklist.pdf)
 
+[Introduction to the National Incident Management System on YouTube](https://www.youtube.com/watch?v=d39esZe-NXg)
+
