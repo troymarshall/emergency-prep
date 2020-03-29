@@ -37,4 +37,4 @@ Complete the following research and learning, be prepared to discuss in session 
 
 [FEMA introduction to Incident Command System (ICS) training](https://emilms.fema.gov/IS0100c/curriculum/1.html)
 
-
+[Community Emergency Response Team (CERT) information at Ready.gov](https://www.ready.gov/cert)
