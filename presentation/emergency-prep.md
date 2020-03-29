@@ -40,13 +40,13 @@ inlineSVG: true
 
 ## Why is emergency preparedness important?
 
-Being prepared for an emergency allows you to proactively address *likely* risks.
+Being prepared for an emergency allows you to proactively address *likely* situations.
 
-### Risk
+### e·mer·gen·cy
 
 *noun*
 
-a situation involving exposure to danger.
+a serious, unexpected, and often dangerous situation requiring immediate action.
 
 ---
 
@@ -100,6 +100,8 @@ a situation involving exposure to danger.
         16. Nuclear power plant emergency
         17. Avalanche (snowslide or rockslide)
         18. Violence in a public place
+
+---
 
 ## Emergency Preparedness Merit Badge Requirements cont.
 
@@ -226,7 +228,7 @@ Review homework- Complete requirement 2.b for the five situations that follow.
 
 Review homework- 2.c Meet with and teach your family how to get or build a kit, make a plan, and be informed for the situations on the chart you created for requirement 2b. Be prepared for session 2 to report on your family meeting, discuss their responses, and share your family plan.
 
---
+---
 
 ## Session 2 Discussion
 
