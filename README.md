@@ -30,6 +30,8 @@ Complete the following research and learning, be prepared to discuss in session 
 
 ## Helpful Resources
 
+[Emergency Preparedness merit badge requirements at Scouting.org](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Emergency_Preparedness.pdf)
+
 [FEMA Emergency Kit Checklist](https://www.fema.gov/media-library-data/1553273223562-797451b5cb0bee8d35d3e4e85e3830d6/Checklist.pdf)
 
 [5 Missions of Emergency Preparedness](https://www.statussolutions.com/the-five-missions-of-emergency-preparedness)
