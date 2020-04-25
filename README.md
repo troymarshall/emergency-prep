@@ -32,6 +32,8 @@ Complete the following research and learning, be prepared to discuss in session 
 
 [FEMA Emergency Kit Checklist](https://www.fema.gov/media-library-data/1553273223562-797451b5cb0bee8d35d3e4e85e3830d6/Checklist.pdf)
 
+[5 Missions of Emergency Preparedness](https://www.statussolutions.com/the-five-missions-of-emergency-preparedness)
+
 [USScout.org home safety checklist](http://usscouts.org/usscouts/mb/docs/Home-Safety-Checklist.pdf)
 
 [Introduction to the National Incident Management System on YouTube](https://www.youtube.com/watch?v=d39esZe-NXg)
